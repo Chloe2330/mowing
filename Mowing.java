@@ -1,6 +1,3 @@
-// Chloe Lin
-// Period 1
-// 12/31/2020
 // lawn mower program
 package APCS.jan;
 
